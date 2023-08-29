@@ -1,5 +1,5 @@
 import { styled } from './styles/index.js';
-import Icon from './icons/icon.cjs';
+import styledCjs from './styles/styledCjs.cjs';
 
 export const Tooltip = styled();
-export { Icon };
+export { styledCjs };

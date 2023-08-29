@@ -1,1 +1,1 @@
-export { default as styled } from './styled.js';
+export { styled } from './styled.js';

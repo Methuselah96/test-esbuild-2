@@ -1,3 +1,1 @@
-const styled = () => {};
-
-export default styled;
+export const styled = () => {};
