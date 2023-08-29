@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build": "esbuild src/Button.js src/Popper.js src/Tooltip.js --splitting --bundle --outdir=dist --format=esm"
+    "build": "esbuild src/Autocomplete.js src/Button.js src/Popper.js src/Tooltip.js --splitting --bundle --outdir=dist --format=esm"
   },
   "author": "",
   "license": "ISC",
