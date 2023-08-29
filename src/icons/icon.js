@@ -1,4 +1,4 @@
-const thing = require('../mui-material/styles/styled');
+const thing = require('../styles/styled');
 
 function test() {
     thing();
