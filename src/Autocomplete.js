@@ -1,3 +1,1 @@
-import { Popper } from './Popper';
-
-console.log(Popper);
+export { Popper } from './Popper.js';

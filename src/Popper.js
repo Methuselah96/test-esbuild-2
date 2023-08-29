@@ -1,3 +1,3 @@
-import { styled } from './styles';
+import { styled } from './styles/index.js';
 
 export const Popper = styled();

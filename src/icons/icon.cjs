@@ -1,4 +1,4 @@
-const thing = require('../styles/styled');
+const thing = require('../styles/styled.js');
 
 function test() {
     thing();
