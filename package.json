@@ -1,0 +1,14 @@
+{
+  "name": "test-esbuild-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "esbuild src/useBottonAndIcon.js src/useButtonAndPopper.js src/usePopper.js --splitting --bundle --outdir=dist --format=esm"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "esbuild": "0.19.2"
+  }
+}
